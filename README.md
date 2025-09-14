@@ -147,11 +147,5 @@ git tag v0.1
 * store.json missing: Run `python cli.py --init` before querying.
 * OpenAI authentication error: Check your `OPENAI_API_KEY` environment variable.
 
----
 
-## Optional Extensions
-
-* Add nutrition information to each recipe in the dataset.
-* Extend CLI to suggest recipes from multiple ingredients.
-* Create a web UI using Flask or Streamlit for easier interaction.
 
